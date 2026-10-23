@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /play/solo/
-Disallow: /production/
 
 Sitemap: https://intrigue.temnorid.com/sitemap.xml
