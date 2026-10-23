@@ -75,5 +75,5 @@
 
 ### Посилання
 
-[Правила](https://temnorid-conquest.webart.work/rules) ·
-[Правила — Швидка пам'ятка](https://temnorid-conquest.webart.work/rules#r36)
+[Правила](https://intrigue.temnorid.com/rules) ·
+[Правила — Швидка пам'ятка](https://intrigue.temnorid.com/rules#r36)

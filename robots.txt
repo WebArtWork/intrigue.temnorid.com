@@ -3,4 +3,4 @@ Allow: /
 Disallow: /play/solo/
 Disallow: /production/
 
-Sitemap: https://temnorid-conquest.webart.work/sitemap.xml
+Sitemap: https://intrigue.temnorid.com/sitemap.xml

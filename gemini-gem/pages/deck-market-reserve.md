@@ -42,5 +42,5 @@
 
 ### Посилання
 
-[Правила](https://temnorid-conquest.webart.work/rules) ·
-[Одиночна гра](https://temnorid-conquest.webart.work/play/solo/)
+[Правила](https://intrigue.temnorid.com/rules) ·
+[Одиночна гра](https://intrigue.temnorid.com/play/solo/)

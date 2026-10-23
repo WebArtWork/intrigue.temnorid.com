@@ -43,4 +43,4 @@
 
 ### Посилання
 
-[Одиночна гра](https://temnorid-conquest.webart.work/play/solo/)
+[Одиночна гра](https://intrigue.temnorid.com/play/solo/)
